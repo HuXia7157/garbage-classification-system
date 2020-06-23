@@ -1,0 +1,15 @@
+EPOCH=001,Loss=1.154,Accuracy= 47.000%
+EPOCH=002,Loss=1.279,Accuracy= 49.000%
+EPOCH=003,Loss=0.868,Accuracy= 67.000%
+EPOCH=004,Loss=2.603,Accuracy= 33.000%
+EPOCH=005,Loss=1.227,Accuracy= 60.000%
+EPOCH=006,Loss=0.782,Accuracy= 67.000%
+EPOCH=007,Loss=0.741,Accuracy= 70.000%
+EPOCH=008,Loss=1.019,Accuracy= 62.000%
+EPOCH=009,Loss=0.689,Accuracy= 74.000%
+EPOCH=010,Loss=0.662,Accuracy= 74.000%
+EPOCH=011,Loss=0.681,Accuracy= 73.000%
+EPOCH=012,Loss=0.638,Accuracy= 77.000%
+EPOCH=013,Loss=0.818,Accuracy= 72.000%
+EPOCH=014,Loss=0.654,Accuracy= 76.000%
+EPOCH=015,Loss=0.537,Accuracy= 80.000%
