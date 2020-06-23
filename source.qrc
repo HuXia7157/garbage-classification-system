@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>img/f1_conv1.png</file>
+    <file>img/f2_layer1.png</file>
+    <file>img/f3_layer2.png</file>
+    <file>img/f4_layer3.png</file>
+    <file>img/f5_layer4.png</file>
+    <file>img/f6_avgpool.png</file>
+    <file>img/f7_fc.png</file>
+    <file>img/pic2.jpg</file>
+    <file>img/pic1.png</file>
+    <file>img/harm-before.png</file>
+    <file>img/kitchen-before.png</file>
+    <file>img/other-before.png</file>
+    <file>img/recycle-before.png</file>
+    <file>img/log.png</file>
+    <file>img/harm.png</file>
+    <file>img/kitchen.png</file>
+    <file>img/other.png</file>
+    <file>img/recycle.png</file>
+    <file>img/rec.png</file>
+  </qresource>
+</RCC>
